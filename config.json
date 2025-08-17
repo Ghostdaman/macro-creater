@@ -1,0 +1,27 @@
+{
+  "ronalds": {
+    "delay": 1.0,
+    "x": 0,
+    "y": 0,
+    "keys": [
+      {
+        "type": "mouse",
+        "x": 1873,
+        "y": 411,
+        "button": "left",
+        "delay": 1.0,
+        "x_pct": 0.9755208333333333,
+        "y_pct": 0.38055555555555554
+      },
+      {
+        "type": "mouse",
+        "x_pct": 0.1625,
+        "y_pct": 0.35462962962962963,
+        "button": "left",
+        "delay": 1.0
+      }
+    ],
+    "start_hotkey": "F6",
+    "stop_hotkey": "F7"
+  }
+}
